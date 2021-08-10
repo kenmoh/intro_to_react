@@ -116,3 +116,10 @@
   cursor: pointer;
   width: 100%;
 }
+
+.not-found {
+  text-align: center;
+}
+.not-found h2 {
+  font-size: 75px;
+}
